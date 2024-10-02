@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, MyFM Radio,2,3,4,
+#EXTINF:-1, MyFM Radio,2,3,4
 https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
-#EXTINF:-1, SYOK粤语K歌,
+#EXTINF:-1, SYOK粤语K歌
 https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8
-#EXTINF:-1, MyFM 卡拉唱不完,
+#EXTINF:-1, MyFM 卡拉唱不完
 https://stream-eu-a.rcs.revma.com/bk3zxpe811uvv?playlist.m3u8
-#EXTINF:-1, MyFM 流行歌,
+#EXTINF:-1, MyFM 流行歌
 https://stream-eu-a.rcs.revma.com/84qe3ve811uvv?playlist.m3u8
-#EXTINF:-1, MyFM Love Uu,
+#EXTINF:-1, MyFM Love Uu
 https://stream-eu-a.rcs.revma.com/rp0bsse811uvv?playlist.m3u8

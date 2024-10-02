@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,title="大地",artist=""
-https://audio.jukehost.co.uk/2RaF0KpOggbrUJh2gJWM2MzarZjup88xc
-#EXTINF:-1,title="雾之恋",artist=""
-https://audio.jukehost.co.uk/mS7GrCZ0CVwRpoXzX32BiO3vFUx8LZeS
-#EXTINF:-1,title="深爱着你",artist=""
-https://audio.jukehost.co.uk/ifYUbw7RheQHvYqyp4igjojALXJ1wYeb
-#EXTINF:-1,title="半梦半醒",artist=""
-https://audio.jukehost.co.uk/gjIW2kzhhpYTCjZHU20Q9O0RqCJDPlM4
-#EXTINF:-1,title="午夜怨曲",artist=""
-https://audio.jukehost.co.uk/k3HmEcYc4PdaHXOyzGmk9OETCSYcRqHq
+#EXTINF:-1,title="MyFM Radio",artist=""
+https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
+#EXTINF:-1,title="SYOK粤语K歌",artist=""
+https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8
+#EXTINF:-1,title="MyFM 卡拉唱不完",artist=""
+https://stream-eu-a.rcs.revma.com/bk3zxpe811uvv?playlist.m3u8
+#EXTINF:-1,title="MyFM 流行歌",artist=""
+https://stream-eu-a.rcs.revma.com/84qe3ve811uvv?playlist.m3u8
+#EXTINF:-1,title="MyFM Love Uu",artist=""
+https://stream-eu-a.rcs.revma.com/rp0bsse811uvv?playlist.m3u8

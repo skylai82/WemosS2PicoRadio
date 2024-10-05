@@ -102,8 +102,14 @@ https://stream-eu-a.rcs.revma.com/ggn4nww711uvv?playlist.m3u8
 
 #EXTINF:-1, Mutiara FM
 https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
-#EXTINF:-1, Perak FM
-https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
+#EXTINF:-1, Selagor FM
+http://22273.live.streamtheworld.com/SELANGOR_FMAAC.aac
+#EXTINF:-1, KL FM
+http://28103.live.streamtheworld.com/KL_FMAAC.aac
+#EXTINF:-1, Negeri9 FM
+http://28163.live.streamtheworld.com/NEGERI_FMAAC.aac
+#EXTINF:-1, Melacca FM
+http://28093.live.streamtheworld.com/MELAKA_FMAAC.aac
 
 
 

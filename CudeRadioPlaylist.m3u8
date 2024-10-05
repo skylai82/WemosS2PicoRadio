@@ -23,7 +23,6 @@ https://stream-eu-a.rcs.revma.com/3keq8g9711uvv?playlist.m3u8
 #EXTINF:-1, Melody 70's
 https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8
 
-
 #EXTINF:-1, GoXuan FM
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
 #EXTINF:-1, GoXuan Emo
@@ -175,7 +174,8 @@ https://plus.onair.network:8130/94fmclub
 https://atimeonline.smartclick.co.th/chill
 #EXTINF:-1, Bangkok EFM
 https://atimeonline2.smartclick.co.th/efm
-
+#EXTINF:-1, Bangkok Talay FM
+https://stream.talay.asia/talay
 
 
 

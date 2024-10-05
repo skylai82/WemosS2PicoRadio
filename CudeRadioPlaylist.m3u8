@@ -9,7 +9,8 @@ https://stream-eu-a.rcs.revma.com/bk3zxpe811uvv?playlist.m3u8
 https://stream-eu-a.rcs.revma.com/84qe3ve811uvv?playlist.m3u8
 #EXTINF:-1, MyFM Love Uu
 https://stream-eu-a.rcs.revma.com/rp0bsse811uvv?playlist.m3u8
-#EXTINF:-1, Melody
+
+#EXTINF:-1, Melody FM
 https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8
 #EXTINF:-1, Melody Love Song
 https://stream-eu-a.rcs.revma.com/7xatqr9711uvv?playlist.m3u8
@@ -21,6 +22,8 @@ https://stream-eu-a.rcs.revma.com/hg8dtm9711uvv?playlist.m3u8
 https://stream-eu-a.rcs.revma.com/3keq8g9711uvv?playlist.m3u8
 #EXTINF:-1, Melody 70's
 https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8
+
+
 #EXTINF:-1, GoXuan FM
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
 #EXTINF:-1, GoXuan Emo
@@ -31,24 +34,28 @@ https://stream-eu-a.rcs.revma.com/mzrrzgx711uvv?playlist.m3u8
 https://stream-eu-a.rcs.revma.com/dqc04fx711uvv?playlist.m3u8
 #EXTINF:-1, Guxuan Kpop
 https://stream-eu-a.rcs.revma.com/d54qr8w711uvv?playlist.m3u8
+
 #EXTINF:-1, 8FM
 https://stream.rcs.revma.com/qp0xrd9mtd3vv?playlist.m3u8
 #EXTINF:-1, 988 FM
 https://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 http://28103.live.streamtheworld.com/AI_FMAAC.aac
+
 #EXTINF:-1, Hitz FM
 https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv?playlist.m3u8
 #EXTINF:-1, Hitz Top-40
 https://stream-eu-a.rcs.revma.com/u1kxmkz711uvv?playlist.m3u8
 #EXTINF:-1, Hitz Tiktok
 https://stream-eu-a.rcs.revma.com/4f3eyhz711uvv?playlist.m3u8
+
 #EXTINF:-1, Lite FM
 https://stream-eu-a.rcs.revma.com/bn4ex8sbv4uvv?playlist.m3u8
 #EXTINF:-1, Lite 70~80s
 https://stream-eu-a.rcs.revma.com/axkpyf8711uvv?playlist.m3u8
 #EXTINF:-1, Lite Love Song's
 https://stream-eu-a.rcs.revma.com/08ztvm8711uvv?playlist.m3u8
+
 #EXTINF:-1, Syok Gold New
 https://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv?playlist.m3u8
 #EXTINF:-1, Mix FM
@@ -59,6 +66,7 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 https://22273.live.streamtheworld.com:80/TRAXX_FMAAC.aac
 #EXTINF:-1, Best FM
 https://22273.live.streamtheworld.com:80/BFMAAC.aac
+
 #EXTINF:-1, ERA FM
 https://stream-eu-a.rcs.revma.com/crec9cmbv4uvv?playlist.m3u8
 #EXTINF:-1, ERA CINTAN
@@ -67,12 +75,35 @@ https://stream-eu-a.rcs.revma.com/0z5mdyv711uvv?playlist.m3u8
 https://stream-eu-a.rcs.revma.com/sgzunsw711uvv?playlist.m3u8
 #EXTINF:-1, ERA K-Hit
 https://stream-eu-a.rcs.revma.com/m1hzxaw711uvv?playlist.m3u8
+
 #EXTINF:-1, Suria FM
 https://22243.live.streamtheworld.com/SURIA_FMAAC.aac
-
 #EXTINF:-1, Sinar FM
 https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv?playlist.m3u8
+#EXTINF:-1, Sinar FM 70's
+https://stream-eu-a.rcs.revma.com/bb4ey1g811uvv?playlist.m3u8
+#EXTINF:-1, Sinar FM 80's
+https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv?playlist.m3u8
+#EXTINF:-1, Sinar Rock Kapak
+https://stream-eu-a.rcs.revma.com/rz43weh811uvv?playlist.m3u8
 
+#EXTINF:-1, Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1, Kool FM
+http://mediaprima.rastream.com/mediaprima-koolfm.android
+#EXTINF:-1, Asyik FM
+https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
+#EXTINF:-1, Radio Klasik
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+#EXTINF:-1, Raaga
+https://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv?playlist.m3u8
+#EXTINF:-1, Gegar FM
+https://stream-eu-a.rcs.revma.com/ggn4nww711uvv?playlist.m3u8
+
+#EXTINF:-1, Mutiara FM
+https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
+#EXTINF:-1, Perak FM
+https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
 
 
 

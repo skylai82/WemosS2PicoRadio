@@ -177,7 +177,16 @@ https://atimeonline2.smartclick.co.th/efm
 #EXTINF:-1, Bangkok Talay FM
 https://stream.talay.asia/talay
 
-
+#EXTINF:-1, Indo Bravo FM
+https://pu.klikhost.com/proxy/bravofm/stream
+#EXTINF:-1, Indo Delta FM
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
+#EXTINF:-1, Indo Suara Giri FM
+https://streaming.girifm.com:8010/;stream.nsv
+#EXTINF:-1, Indo I-Radio Medan
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1, Indo Aksi Medan
+https://radio.garden/api/ara/content/listen/ToXj8xFB/channel.mp3
 
 
 

@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1, MyFM Radio
-#IMAGE:https://media2.fishtank.my/stations/my/square_md.jpg
 https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
 #EXTINF:-1, SYOK粤语K歌
 https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8

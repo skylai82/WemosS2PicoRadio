@@ -146,19 +146,37 @@ https://22393.live.streamtheworld.com/GOLD905_PREM.aac
 https://22403.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1, SG Love972
 https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1, SG 883Jia FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1, SG Capital
 https://22253.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1, SG UFM1003
 http://22243.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1, SG Hao FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+#EXTINF:-1, SG Warna FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+#EXTINF:-1, SG Class FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
+#EXTINF:-1, SG Gold FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
+#EXTINF:-1, HK 老歌
+https://stm.rthk.hk/radiopth
 
 #EXTINF:-1, TH Suf 102.5FM
 https://stream.surf.radio/surf1025
+#EXTINF:-1, TH BBK GreenWave 100.6
+https://atimeonline2.smartclick.co.th/green
 #EXTINF:-1, TH We Love
 https://streaming.thaismarthost.com/listen/shoutcast_8120/WELOVE
+#EXTINF:-1, TH Hatyai
+https://plus.onair.network:8130/94fmclub
 #EXTINF:-1, Bangkok Chill FM
 https://atimeonline.smartclick.co.th/chill
 #EXTINF:-1, Bangkok EFM
 https://atimeonline2.smartclick.co.th/efm
+
+
 
 
 

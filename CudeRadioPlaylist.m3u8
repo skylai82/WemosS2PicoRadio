@@ -110,6 +110,58 @@ http://28103.live.streamtheworld.com/KL_FMAAC.aac
 http://28163.live.streamtheworld.com/NEGERI_FMAAC.aac
 #EXTINF:-1, Melacca FM
 http://28093.live.streamtheworld.com/MELAKA_FMAAC.aac
+#EXTINF:-1, Pahang FM
+http://28093.live.streamtheworld.com/PAHANG_FMAAC.aac
+#EXTINF:-1, Kelantan FM
+https://16603.live.streamtheworld.com/KELANTAN_FMAAC.aac
+#EXTINF:-1, Kelantan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
+#EXTINF:-1, Johor FM
+http://22243.live.streamtheworld.com:80/JOHOR_FMAAC.aac
+#EXTINF:-1, Kedah FM
+http://22273.live.streamtheworld.com/KEDAH_FMAAC.aac
+#EXTINF:-1, Langkawi FM
+http://28103.live.streamtheworld.com/LANGKAWI_FMAAC.aac
+#EXTINF:-1, Perlis FM
+http://28153.live.streamtheworld.com/PERLIS_FMAAC.aac
+#EXTINF:-1, Sabah V FM
+http://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
+#EXTINF:-1, Sarawak FM
+http://22273.live.streamtheworld.com/BINTULU_FMAAC.aac
+
+#EXTINF:-1, Sarawak FM
+http://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
+#EXTINF:-1, RTM Sabah
+http://28103.live.streamtheworld.com/SABAH_FMAAC.aac
+#EXTINF:-1, Nasional FM
+http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
+#EXTINF:-1, Manis FM
+https://n11.rcs.revma.com/nzgauqq1v7zuv?hls.m3u8
+
+#EXTINF:-1, SG CNA
+https://22893.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1, SG Gold 905
+https://22393.live.streamtheworld.com/GOLD905_PREM.aac
+#EXTINF:-1, SG Yes933
+https://22403.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1, SG Love972
+https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1, SG Capital
+https://22253.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1, SG UFM1003
+http://22243.live.streamtheworld.com/UFM_1003AAC.aac
+
+#EXTINF:-1, TH Suf 102.5FM
+https://stream.surf.radio/surf1025
+#EXTINF:-1, TH We Love
+https://streaming.thaismarthost.com/listen/shoutcast_8120/WELOVE
+#EXTINF:-1, Bangkok Chill FM
+https://atimeonline.smartclick.co.th/chill
+#EXTINF:-1, Bangkok EFM
+https://atimeonline2.smartclick.co.th/efm
+
+
+
 
 
 

@@ -87,9 +87,9 @@ https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv?playlist.m3u8
 https://stream-eu-a.rcs.revma.com/rz43weh811uvv?playlist.m3u8
 
 EXTINF:-1, Hot FM
-*bad*http://mediaprima.rastream.com/mediaprima-hotfm
+http://mediaprima.rastream.com/mediaprima-hotfm
 EXTINF:-1, Kool FM
-*bad*http://mediaprima.rastream.com/mediaprima-koolfm.android
+http://mediaprima.rastream.com/mediaprima-koolfm.android
 #EXTINF:-1, Asyik FM
 https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1, Radio Klasik

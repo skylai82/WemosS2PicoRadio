@@ -86,8 +86,8 @@ https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv?playlist.m3u8
 #EXTINF:-1, Sinar Rock Kapak
 https://stream-eu-a.rcs.revma.com/rz43weh811uvv?playlist.m3u8
 
-#EXTINF:-1, Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm
+//#EXTINF:-1, Hot FM
+//http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1, Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm.android
 #EXTINF:-1, Asyik FM

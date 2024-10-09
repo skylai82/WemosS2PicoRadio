@@ -158,8 +158,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1, SG Gold FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
-#EXTINF:-1, HK 老歌
-https://stm.rthk.hk/radiopth
+#EXTINF:-1, Syok Relax Music
+https://stream.rcs.revma.com/54g0f0e811uvv?playlist.m3u8
+#EXTINF:-1, Relax Cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1, Relax Spa
+https://stream.relaxfm.ee/spa
+#EXTINF:-1, Christmas Channel
+http://ais-edge89-dal02.cdnstream.com/b55667_64aac
+#EXTINF:-1, Xmas Hope
+http://stream.hopemedia.com.au/christmashope
+#EXTINF:-1, 365 Xmas
+http://radio1.streamserver.link/radio/8090/mcr-aac
+#EXTINF:-1, Syok Best Kid Song
+https://stream-eu-a.rcs.revma.com/e2xkc1e811uvv?playlist.m3u8
 
 #EXTINF:-1, TH Suf 102.5FM
 https://stream.surf.radio/surf1025

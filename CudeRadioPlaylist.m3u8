@@ -36,7 +36,7 @@ https://stream.rcs.revma.com/qp0xrd9mtd3vv
 #EXTINF:-1, 988 FM
 https://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
-https://28153.live.streamtheworld.com/AI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1, Hitz FM
 https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv
 #EXTINF:-1, Hitz Top-40

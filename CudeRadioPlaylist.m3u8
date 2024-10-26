@@ -3,6 +3,8 @@
 https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv
 #EXTINF:-1, SYOK粤语K歌
 https://stream-eu-a.rcs.revma.com/dd3nf88711uvv
+#EXTINF:-1, SYOK 华语乐坛天
+https://n14.rcs.revma.com/1scz4dh811uvv?playlist.m3u8
 #EXTINF:-1, MyFM 卡拉唱不完
 https://stream-eu-a.rcs.revma.com/bk3zxpe811uvv
 #EXTINF:-1, MyFM 流行歌
@@ -175,8 +177,6 @@ https://pu.klikhost.com/proxy/bravofm/stream
 https://s1.cloudmu.id/listen/delta_fm/radio.mp3
 #EXTINF:-1, Indo Suara Giri FM
 https://streaming.girifm.com:8010/;stream.nsv
-#EXTINF:-1, Indo I-Radio Medan
-https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1, Indo Aksi Medan
 https://radio.garden/api/ara/content/listen/ToXj8xFB/channel.mp3
 #EXTINF:-1, Indo Pro 2 Medan

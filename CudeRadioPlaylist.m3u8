@@ -41,6 +41,8 @@ https://stream.rcs.revma.com/qp0xrd9mtd3vv
 https://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
+#EXTINF:-1, Syok AFO Radio
+https://stream.rcs.revma.com/7x3gv2y4bshvv?playlist.m3u8
 #EXTINF:-1, Hitz FM
 https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv
 #EXTINF:-1, Hitz Top-40
@@ -157,8 +159,6 @@ https://stream.rcs.revma.com/54g0f0e811uvv
 http://stream.hopemedia.com.au/christmashope
 #EXTINF:-1, 365 Xmas
 http://radio1.streamserver.link/radio/8090/mcr-aac
-#EXTINF:-1, Syok Best Kid Song
-https://stream-eu-a.rcs.revma.com/e2xkc1e811uvv
 #EXTINF:-1, TH Suf 102.5FM
 https://stream.surf.radio/surf1025
 #EXTINF:-1, TH BBK GreenWave 100.6

@@ -117,6 +117,8 @@ https://16603.live.streamtheworld.com/KELANTAN_FMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
 #EXTINF:-1, Johor FM
 http://22243.live.streamtheworld.com:80/JOHOR_FMAAC.aac
+#EXTINF:-1, Perak FM
+https://28153.live.streamtheworld.com/PERAK_FMAAC.aac
 #EXTINF:-1, Kedah FM
 http://22273.live.streamtheworld.com/KEDAH_FMAAC.aac
 #EXTINF:-1, Langkawi FM

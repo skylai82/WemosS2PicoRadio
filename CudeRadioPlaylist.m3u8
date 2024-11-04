@@ -31,9 +31,9 @@ http://stream.rcs.revma.com/dqc04fx711uvv/hls.m3u8
 #EXTINF:-1, 8FM
 http://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 #EXTINF:-1, 988 FM
-https://22273.live.streamtheworld.com/988_FMAAC.aac
+http://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
-https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1, Syok AFO Radio
 http://stream.rcs.revma.com/7x3gv2y4bshvv/hls.m3u8
 #EXTINF:-1, Hitz FM
@@ -55,9 +55,9 @@ http://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8
 #EXTINF:-1, Fly FM
 http://stream.rcs.revma.com/q17aka9mtd3vv/hls.m3u8
 #EXTINF:-1, Traxx FM
-https://22253.live.streamtheworld.com/TRAXX_FMAAC.aac
+http://22253.live.streamtheworld.com/TRAXX_FMAAC.aac
 #EXTINF:-1, Best FM
-https://22273.live.streamtheworld.com:80/BFMAAC.aac
+http://22273.live.streamtheworld.com:80/BFMAAC.aac
 #EXTINF:-1, ERA FM
 http://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
 #EXTINF:-1, ERA CINTAN
@@ -67,7 +67,7 @@ http://stream.rcs.revma.com/sgzunsw711uvv/hls.m3u8
 #EXTINF:-1, ERA K-Hit
 http://stream.rcs.revma.com/m1hzxaw711uvv/hls.m3u8
 #EXTINF:-1, Suria FM
-https://22243.live.streamtheworld.com/SURIA_FMAAC.aac
+http://22243.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1, Sinar FM
 http://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 #EXTINF:-1, Sinar FM 70's
@@ -81,9 +81,9 @@ http://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 #EXTINF:-1, Kool FM
 http://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 #EXTINF:-1, Asyik FM
-https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
+http://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1, Radio Klasik
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 #EXTINF:-1, Nasional FM
 http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1, Manis FM
@@ -93,7 +93,7 @@ http://stream.rcs.revma.com/1ut6qwtbv4uvv/hls.m3u8
 #EXTINF:-1, Gegar FM
 http://stream.rcs.revma.com/ggn4nww711uvv/hls.m3u8
 #EXTINF:-1, Mutiara FM
-https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
+http://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM
 http://22273.live.streamtheworld.com/SELANGOR_FMAAC.aac
 #EXTINF:-1, KL FM
@@ -105,13 +105,13 @@ http://28093.live.streamtheworld.com/MELAKA_FMAAC.aac
 #EXTINF:-1, Pahang FM
 http://28093.live.streamtheworld.com/PAHANG_FMAAC.aac
 #EXTINF:-1, Kelantan FM
-https://16603.live.streamtheworld.com/KELANTAN_FMAAC.aac
+http://16603.live.streamtheworld.com/KELANTAN_FMAAC.aac
 #EXTINF:-1, Kelantan FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
 #EXTINF:-1, Johor FM
 http://22243.live.streamtheworld.com:80/JOHOR_FMAAC.aac
 #EXTINF:-1, Perak FM
-https://28153.live.streamtheworld.com/PERAK_FMAAC.aac
+http://28153.live.streamtheworld.com/PERAK_FMAAC.aac
 #EXTINF:-1, Kedah FM
 http://22273.live.streamtheworld.com/KEDAH_FMAAC.aac
 #EXTINF:-1, Langkawi FM
@@ -127,27 +127,27 @@ http://22273.live.streamtheworld.com/BINTULU_FMAAC.aac
 #EXTINF:-1, SANDAKAN FM
 http://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
 #EXTINF:-1, SG CNA
-https://22893.live.streamtheworld.com/938NOW_PREM.aac
+http://22893.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1, SG Gold 905
-https://22393.live.streamtheworld.com/GOLD905_PREM.aac
+http://22393.live.streamtheworld.com/GOLD905_PREM.aac
 #EXTINF:-1, SG Yes933
-https://22403.live.streamtheworld.com/YES933_PREM.aac
+http://22403.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1, SG Love972
-https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1, SG 883Jia FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1, SG Capital
-https://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1, SG UFM1003
-https://22243.live.streamtheworld.com/UFM_1003AAC.aac
+http://22243.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1, SG Hao FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
 #EXTINF:-1, SG Warna FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 #EXTINF:-1, SG Class FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1, SG Gold FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
 #EXTINF:-1, Syok Relax Music
 http://stream.rcs.revma.com/54g0f0e811uvv/hls.m3u8
 #EXTINF:-1, Xmas Hope
@@ -155,22 +155,22 @@ http://stream.hopemedia.com.au/christmashope
 #EXTINF:-1, 365 Xmas
 http://radio1.streamserver.link/radio/8090/mcr-aac
 #EXTINF:-1, TH Suf 102.5FM
-https://stream.surf.radio/surf1025
+http://stream.surf.radio/surf1025
 #EXTINF:-1, TH We Love
-https://streaming.thaismarthost.com/listen/shoutcast_8120/WELOVE
+http://streaming.thaismarthost.com/listen/shoutcast_8120/WELOVE
 #EXTINF:-1, Bangkok Chill FM
-https://atimeonline.smartclick.co.th/chill
+http://atimeonline.smartclick.co.th/chill
 #EXTINF:-1, Bangkok EFM
-https://atimeonline2.smartclick.co.th/efm
+http://atimeonline2.smartclick.co.th/efm
 #EXTINF:-1, Bangkok Talay FM
-https://stream.talay.asia/talay
+http://stream.talay.asia/talay
 #EXTINF:-1, Indo Bravo FM
-https://pu.klikhost.com/proxy/bravofm/stream
+http://pu.klikhost.com/proxy/bravofm/stream
 #EXTINF:-1, Indo Delta FM
-https://s1.cloudmu.id/listen/delta_fm/radio.mp3
+http://s1.cloudmu.id/listen/delta_fm/radio.mp3
 #EXTINF:-1, Indo Suara Giri FM
-https://streaming.girifm.com:8010/;stream.nsv
+http://streaming.girifm.com:8010/;stream.nsv
 #EXTINF:-1, Indo Aksi Medan
-https://radio.garden/api/ara/content/listen/ToXj8xFB/channel.mp3
+http://radio.garden/api/ara/content/listen/ToXj8xFB/channel.mp3
 #EXTINF:-1, Indo Pro 2 Medan
-https://radio.garden/api/ara/content/listen/i3Y7OMXA/channel.mp3
+http://radio.garden/api/ara/content/listen/i3Y7OMXA/channel.mp3

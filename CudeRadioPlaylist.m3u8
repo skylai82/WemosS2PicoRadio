@@ -1,86 +1,85 @@
-#EXTM3U
 #EXTINF:-1, MyFM Radio
 http://stream.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1, SYOK粤语K歌
-http://stream.rcs.revma.com/dd3nf88711uvv
+http://stream.rcs.revma.com/dd3nf88711uvv/hls.m3u8
 #EXTINF:-1, MyFM 卡拉唱不完
-http://stream.rcs.revma.com/bk3zxpe811uvv
+http://stream.rcs.revma.com/bk3zxpe811uvv/hls.m3u8
 #EXTINF:-1, MyFM 流行歌
-http://stream.rcs.revma.com/84qe3ve811uvv
+http://stream.rcs.revma.com/84qe3ve811uvv/hls.m3u8
 #EXTINF:-1, MyFM Love Uu
-https://n41a-eu.rcs.revma.com/rp0bsse811uvv
+http://stream.rcs.revma.com/rp0bsse811uvv/hls.m3u8
 #EXTINF:-1, Melody FM
-https://n08a-eu.rcs.revma.com/2u1n6dtbv4uvv
+http://stream.rcs.revma.com/2u1n6dtbv4uvv/hls.m3u8
 #EXTINF:-1, Melody Love Song
-https://n23a-eu.rcs.revma.com/7xatqr9711uvv
+http://stream.rcs.revma.com/7xatqr9711uvv/hls.m3u8
 #EXTINF:-1, Melody OST
-https://n10a-eu.rcs.revma.com/8axr3x9711uvv
+http://stream.rcs.revma.com/8axr3x9711uvv/hls.m3u8
 #EXTINF:-1, Melody 90's
-https://n24a-eu.rcs.revma.com/hg8dtm9711uvv
+http://stream.rcs.revma.com/hg8dtm9711uvv/hls.m3u8
 #EXTINF:-1, Melody 70 & 80's
-https://n10a-eu.rcs.revma.com/8axr3x9711uvv
+http://stream.rcs.revma.com/8axr3x9711uvv/hls.m3u8
 #EXTINF:-1, GoXuan FM
-https://n15a-eu.rcs.revma.com/xt9nhzsbv4uvv
+http://stream.rcs.revma.com/xt9nhzsbv4uvv/hls.m3u8
 #EXTINF:-1, GoXuan Emo
-https://n13a-eu.rcs.revma.com/xyva2dx711uvv
+http://stream.rcs.revma.com/xyva2dx711uvv/hls.m3u8
 #EXTINF:-1, GoXuan trending
-https://n02a-eu.rcs.revma.com/mzrrzgx711uvv
+http://stream.rcs.revma.com/mzrrzgx711uvv/hls.m3u8
 #EXTINF:-1, Guxuan Kpop
-https://n37a-eu.rcs.revma.com/d54qr8w711uvv
+http://stream.rcs.revma.com/d54qr8w711uvv/hls.m3u8
 #EXTINF:-1, SYOK有嘻哈说唱
-https://n12a-eu.rcs.revma.com/dqc04fx711uvv
+http://stream.rcs.revma.com/dqc04fx711uvv/hls.m3u8
 #EXTINF:-1, 8FM
-https://n16.rcs.revma.com/qp0xrd9mtd3vv
+http://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 #EXTINF:-1, 988 FM
 https://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1, Syok AFO Radio
-https://n04.rcs.revma.com/7x3gv2y4bshvv
+http://stream.rcs.revma.com/7x3gv2y4bshvv/hls.m3u8
 #EXTINF:-1, Hitz FM
-https://n30a-eu.rcs.revma.com/488kt4sbv4uvv
+http://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8
 #EXTINF:-1, Hitz Top-40
-https://n34a-eu.rcs.revma.com/u1kxmkz711uvv
+http://stream.rcs.revma.com/u1kxmkz711uvv/hls.m3u8
 #EXTINF:-1, Hitz Tiktok
-https://n04a-eu.rcs.revma.com/4f3eyhz711uvv
+http://stream.rcs.revma.com/4f3eyhz711uvv/hls.m3u8
 #EXTINF:-1, Lite FM
-https://n38a-eu.rcs.revma.com/bn4ex8sbv4uvv
+http://stream.rcs.revma.com/bn4ex8sbv4uvv/hls.m3u8
 #EXTINF:-1, Lite 70~80s
-https://n12a-eu.rcs.revma.com/axkpyf8711uvv
+http://stream.rcs.revma.com/axkpyf8711uvv/hls.m3u8
 #EXTINF:-1, Lite Love Song's
-https://n03a-eu.rcs.revma.com/08ztvm8711uvv
+http://stream.rcs.revma.com/08ztvm8711uvv/hls.m3u8
 #EXTINF:-1, Syok Gold New
-https://n04a-eu.rcs.revma.com/fxq2n9tbv4uvv
+http://stream.rcs.revma.com/fxq2n9tbv4uvv/hls.m3u8
 #EXTINF:-1, Mix FM
-https://n12a-eu.rcs.revma.com/v5pq3htbv4uvv
+http://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8
 #EXTINF:-1, Fly FM
-https://n01.rcs.revma.com/q17aka9mtd3vv
+http://stream.rcs.revma.com/q17aka9mtd3vv/hls.m3u8
 #EXTINF:-1, Traxx FM
 https://22253.live.streamtheworld.com/TRAXX_FMAAC.aac
 #EXTINF:-1, Best FM
 https://22273.live.streamtheworld.com:80/BFMAAC.aac
 #EXTINF:-1, ERA FM
-https://n04a-eu.rcs.revma.com/crec9cmbv4uvv
+http://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
 #EXTINF:-1, ERA CINTAN
-https://n29a-eu.rcs.revma.com/0z5mdyv711uvv
+http://stream.rcs.revma.com/0z5mdyv711uvv/hls.m3u8
 #EXTINF:-1, ERA NUSANTARA
-https://n09a-eu.rcs.revma.com/sgzunsw711uvv
+http://stream.rcs.revma.com/sgzunsw711uvv/hls.m3u8
 #EXTINF:-1, ERA K-Hit
-https://n20a-eu.rcs.revma.com/m1hzxaw711uvv
+http://stream.rcs.revma.com/m1hzxaw711uvv/hls.m3u8
 #EXTINF:-1, Suria FM
 https://22243.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1, Sinar FM
-https://n08a-eu.rcs.revma.com/azatk0tbv4uvv
+http://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 #EXTINF:-1, Sinar FM 70's
-https://n06a-eu.rcs.revma.com/bb4ey1g811uvv
+http://stream.rcs.revma.com/bb4ey1g811uvv/hls.m3u8
 #EXTINF:-1, Sinar FM 80's
-https://n43a-eu.rcs.revma.com/xdz7f5g811uvv
+http://stream.rcs.revma.com/xdz7f5g811uvv/hls.m3u8
 #EXTINF:-1, Sinar Rock Kapak
-https://n30a-eu.rcs.revma.com/rz43weh811uvv
+http://stream.rcs.revma.com/rz43weh811uvv/hls.m3u8
 #EXTINF:-1, Hot FM
-https://n14.rcs.revma.com/drakdf8mtd3vv
-EXTINF:-1, Kool FM
-https://n03.rcs.revma.com/3930238mtd3vv
+http://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+#EXTINF:-1, Kool FM
+http://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 #EXTINF:-1, Asyik FM
 https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1, Radio Klasik
@@ -88,11 +87,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAA
 #EXTINF:-1, Nasional FM
 http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1, Manis FM
-https://n10.rcs.revma.com/nzgauqq1v7zuv
+http://stream.rcs.revma.com/nzgauqq1v7zuv/hls.m3u8
 #EXTINF:-1, Raaga
-https://n19a-eu.rcs.revma.com/1ut6qwtbv4uvv
+http://stream.rcs.revma.com/1ut6qwtbv4uvv/hls.m3u8
 #EXTINF:-1, Gegar FM
-https://n11a-eu.rcs.revma.com/ggn4nww711uvv
+http://stream.rcs.revma.com/ggn4nww711uvv/hls.m3u8
 #EXTINF:-1, Mutiara FM
 https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM
@@ -150,7 +149,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1, SG Gold FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
 #EXTINF:-1, Syok Relax Music
-https://n09.rcs.revma.com/54g0f0e811uvv
+http://stream.rcs.revma.com/54g0f0e811uvv/hls.m3u8
 #EXTINF:-1, Xmas Hope
 http://stream.hopemedia.com.au/christmashope
 #EXTINF:-1, 365 Xmas
@@ -179,5 +178,3 @@ https://streaming.girifm.com:8010/;stream.nsv
 https://radio.garden/api/ara/content/listen/ToXj8xFB/channel.mp3
 #EXTINF:-1, Indo Pro 2 Medan
 https://radio.garden/api/ara/content/listen/i3Y7OMXA/channel.mp3
-
-

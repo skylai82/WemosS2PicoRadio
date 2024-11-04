@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, MyFM Radio
-https://n04a-eu.rcs.revma.com/hc3unrtbv4uvv
+http://stream.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1, SYOK粤语K歌
-https://n02a-eu.rcs.revma.com/dd3nf88711uvv
+http://stream.rcs.revma.com/dd3nf88711uvv
 #EXTINF:-1, MyFM 卡拉唱不完
-https://n44a-eu.rcs.revma.com/bk3zxpe811uvv
+http://stream.rcs.revma.com/bk3zxpe811uvv
 #EXTINF:-1, MyFM 流行歌
-https://n30a-eu.rcs.revma.com/84qe3ve811uvv
+http://stream.rcs.revma.com/84qe3ve811uvv
 #EXTINF:-1, MyFM Love Uu
 https://n41a-eu.rcs.revma.com/rp0bsse811uvv
 #EXTINF:-1, Melody FM

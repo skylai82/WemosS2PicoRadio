@@ -169,7 +169,7 @@ http://streaming.girifm.com:8010/;stream.nsv
 #EXTINF:-1, Indo Aksi Medan
 http://live.gbibrahrang.com:8000/stream
 #EXTINF:-1, Indo Pro 2 Medan
-http://radio.garden/api/ara/content/listen/i3Y7OMXA/channel.mp3
+https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro2.mp3
 #EXTINF:-1, Xmas Hope
 http://stream.hopemedia.com.au/christmashope
 #EXTINF:-1, 365 Xmas

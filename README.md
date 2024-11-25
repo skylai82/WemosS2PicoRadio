@@ -1,6 +1,7 @@
 Very Cube Internet Radio
 
 https://esp.huhn.me/
+
 英文
 
 Flashing Steps:
@@ -27,7 +28,8 @@ Address: 0x10000
 
 Click upload: Once all files are correctly selected, click upload and wait for the flashing to complete.
 
-————————————————————————————————————————————————————————————
+——————————————————————————————————
+
 中文
 
 按Boot Key 上电开机，

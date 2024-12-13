@@ -10,14 +10,34 @@ http://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 http://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
-#EXTINF:-1, Syok AFO Radio
-http://stream.rcs.revma.com/7x3gv2y4bshvv/hls.m3u8
+#EXTINF:-1, SG UFM1003
+http://22243.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1, SG Hao FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+#EXTINF:-1, SG Yes933
+http://22403.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1, SG Love972
+http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1, SG 883Jia FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+#EXTINF:-1, Syok Gold New
+http://stream.rcs.revma.com/fxq2n9tbv4uvv/hls.m3u8
+#EXTINF:-1, SG Class FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
+#EXTINF:-1, SG Gold FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
+#EXTINF:-1, SG Gold 905
+http://22393.live.streamtheworld.com/GOLD905_PREM.aac
+#EXTINF:-1, SG Warna FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+#EXTINF:-1, Radio Klasik
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+#EXTINF:-1, Asyik FM
+http://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
 #EXTINF:-1, Hitz FM
 http://stream.rcs.revma.com/488kt4sbv4uvv/hls.m3u8
 #EXTINF:-1, Lite FM
 http://stream.rcs.revma.com/bn4ex8sbv4uvv/hls.m3u8
-#EXTINF:-1, Syok Gold New
-http://stream.rcs.revma.com/fxq2n9tbv4uvv/hls.m3u8
 #EXTINF:-1, Mix FM
 http://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8
 #EXTINF:-1, Fly FM
@@ -36,10 +56,6 @@ http://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
 http://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 #EXTINF:-1, Kool FM
 http://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
-#EXTINF:-1, Asyik FM
-http://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
-#EXTINF:-1, Radio Klasik
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 #EXTINF:-1, Nasional FM
 http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1, Manis FM
@@ -80,26 +96,8 @@ http://22273.live.streamtheworld.com/BINTULU_FMAAC.aac
 http://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac
 #EXTINF:-1, SG CNA
 http://22893.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1, SG Gold 905
-http://22393.live.streamtheworld.com/GOLD905_PREM.aac
-#EXTINF:-1, SG Yes933
-http://22403.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1, SG Love972
-http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1, SG 883Jia FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1, SG Capital
 http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1, SG UFM1003
-http://22243.live.streamtheworld.com/UFM_1003AAC.aac
-#EXTINF:-1, SG Hao FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
-#EXTINF:-1, SG Warna FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
-#EXTINF:-1, SG Class FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
-#EXTINF:-1, SG Gold FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
 #EXTINF:-1, TH Suf 102.5FM
 http://stream.surf.radio/surf1025
 #EXTINF:-1, Bangkok Chill FM

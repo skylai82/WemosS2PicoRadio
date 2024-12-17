@@ -50,6 +50,10 @@ http://22253.live.streamtheworld.com/TRAXX_FMAAC.aac
 http://22273.live.streamtheworld.com:80/BFMAAC.aac
 #EXTINF:-1, ERA FM
 http://stream.rcs.revma.com/crec9cmbv4uvv/hls.m3u8
+#EXTINF:-1, ERA Sabah
+http://stream.rcs.revma.com/4p3nqmmbv4uvv/hls.m3u8
+#EXTINF:-1, ERA Sarawak
+http://stream.rcs.revma.com/bkqfqkrbv4uvv/hls.m3u8
 #EXTINF:-1, Suria FM
 http://28103.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1, Sinar FM

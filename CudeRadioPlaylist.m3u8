@@ -22,8 +22,28 @@ http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1, SG Capital
 http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1, Syok Gold New
+#EXTINF:-1, Syok KBS WORLD
+http://stream.rcs.revma.com/a425s9z711uvv/hls.m3u8
+#EXTINF:-1, Syok Gold
 http://stream.rcs.revma.com/fxq2n9tbv4uvv/hls.m3u8
+#EXTINF:-1, Syok Opus(Classic)
+http://stream.rcs.revma.com/aqvp4yvbv4uvv/hls.m3u8
+#EXTINF:-1, Syok Classic Rock
+http://stream.rcs.revma.com/fk3507vbv4uvv/hls.m3u8
+#EXTINF:-1, Syok Jazz
+http://stream.rcs.revma.com/c718dfvbv4uvv/hls.m3u8
+#EXTINF:-1, Kenyalang Srwk
+http://stream.rcs.revma.com/qyg9zmvbv4uvv/hls.m3u8
+#EXTINF:-1, Bayu Sabah
+http://stream.rcs.revma.com/c718dfvbv4uvv/hls.m3u8
+#EXTINF:-1, India Beat(Hindi)
+http://stream.rcs.revma.com/hrcdg9ubv4uvv/hls.m3u8
+#EXTINF:-1, Osai(Hindi)
+http://stream.rcs.revma.com/hrcdg9ubv4uvv/hls.m3u8
+#EXTINF:-1, Raaga(Hindi)
+http://stream.rcs.revma.com/1ut6qwtbv4uvv/hls.m3u8
+
+
 #EXTINF:-1, SG Class FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1, SG Gold FM
@@ -66,8 +86,7 @@ http://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1, Manis FM
 http://stream.rcs.revma.com/nzgauqq1v7zuv/hls.m3u8
-#EXTINF:-1, Raaga
-http://stream.rcs.revma.com/1ut6qwtbv4uvv/hls.m3u8
+
 #EXTINF:-1, Mutiara FM
 http://22273.live.streamtheworld.com/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM

@@ -125,8 +125,8 @@ http://stream.surf.radio/surf1025
 http://atimeonline.smartclick.co.th/chill
 #EXTINF:-1, Bangkok EFM
 http://atimeonline2.smartclick.co.th/efm
-#EXTINF:-1, Bangkok Talay FM
-http://stream.talay.asia/talay
+EXTINF:-1, Bangkok Talay FM
+ht  tp   ://stream.talay.asia/talay
 #EXTINF:-1, Indo Bravo FM
 http://pu.klikhost.com/proxy/bravofm/stream
 #EXTINF:-1, Indo Delta FM

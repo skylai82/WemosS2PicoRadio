@@ -1,0 +1,113 @@
+  "https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8",  //MyFM(1)
+  "https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8",  //SYOK粤语K歌(2)
+  "https://stream-eu-a.rcs.revma.com/bk3zxpe811uvv?playlist.m3u8",  //MyFM Kara(3)
+  "https://stream-eu-a.rcs.revma.com/84qe3ve811uvv?playlist.m3u8",  //MyFM hit(4)
+  "https://stream-eu-a.rcs.revma.com/rp0bsse811uvv?playlist.m3u8",  //MyFM Lv uu(5)
+  "https://stream-eu-a.rcs.revma.com/dqc04fx711uvv?playlist.m3u8",  //SYOK有嘻哈说唱(6)
+  "https://stream-eu-a.rcs.revma.com/r9s5n7e811uvv?playlist.m3u8",  //MyFM Drop The Beat(7)
+
+  "https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8",  //Melody New(8)
+  "https://stream-eu-a.rcs.revma.com/7xatqr9711uvv?playlist.m3u8",  //Melody Love Song(9)
+  "https://stream-eu-a.rcs.revma.com/8axr3x9711uvv?playlist.m3u8",  //Melody OST(10)
+  "https://stream-eu-a.rcs.revma.com/hg8dtm9711uvv?playlist.m3u8",  //Melody 90's(11)
+  "https://stream-eu-a.rcs.revma.com/3keq8g9711uvv?playlist.m3u8",  //Melody 80's(12)
+  "https://stream-eu-a.rcs.revma.com/dd3nf88711uvv?playlist.m3u8",  //Melody 70's(13)
+
+  "https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8",  //GoXuan FM New(14)
+  "https://stream-eu-a.rcs.revma.com/xyva2dx711uvv?playlist.m3u8",  //GoXuan Emo(15)
+  "https://stream-eu-a.rcs.revma.com/mzrrzgx711uvv?playlist.m3u8",  //GoXuan trending(16)
+  "https://stream-eu-a.rcs.revma.com/dqc04fx711uvv?playlist.m3u8",  //GoXuan Titok(17)
+  "https://stream-eu-a.rcs.revma.com/d54qr8w711uvv?playlist.m3u8",  //Guxuan Kpop(18)
+
+  "https://mediaprima.rastream.com/mediaprima-onefm",     //电台名字：8 FM(19)
+  "https://22273.live.streamtheworld.com/988_FMAAC.aac",  //988
+  "http://28103.live.streamtheworld.com/AI_FMAAC.aac",    //AI FM Smooth
+  //"https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac", //电台名字：AIFM
+  //"https://23693.live.streamtheworld.com/AI_FMAAC.aac", //AIFM
+
+  "https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv?playlist.m3u8",  //Hitz FM New
+  "https://stream-eu-a.rcs.revma.com/u1kxmkz711uvv?playlist.m3u8",  //Hitz Top40
+  "https://stream-eu-a.rcs.revma.com/4f3eyhz711uvv?playlist.m3u8",  //Hitz TTK
+
+  "https://stream-eu-a.rcs.revma.com/bn4ex8sbv4uvv?playlist.m3u8",  //Lite FM New
+  "https://stream-eu-a.rcs.revma.com/axkpyf8711uvv?playlist.m3u8",  //Lite 7~80s
+  "https://stream-eu-a.rcs.revma.com/08ztvm8711uvv?playlist.m3u8",  //Lite Love Song's
+
+  "https://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv?playlist.m3u8",  //Syok Gold New
+
+  "https://stream-eu-a.rcs.revma.com/v5pq3htbv4uvv?playlist.m3u8",  //Mix FM New
+
+  "https://mediaprima.rastream.com/mediaprima-flyfm",  //Fly FM
+
+  "https://22273.live.streamtheworld.com:80/TRAXX_FMAAC.aac",  //Traxx FM
+
+  "https://22273.live.streamtheworld.com:80/BFMAAC.aac",  //Best FM
+
+  "https://stream-eu-a.rcs.revma.com/crec9cmbv4uvv?playlist.m3u8",  // ERA New
+  "https://stream-eu-a.rcs.revma.com/0z5mdyv711uvv?playlist.m3u8",  //Era Cintan
+  "https://stream-eu-a.rcs.revma.com/sgzunsw711uvv?playlist.m3u8",  //Era Nusantera
+  "https://stream-eu-a.rcs.revma.com/m1hzxaw711uvv?playlist.m3u8",  //Era K-Hit
+
+  "https://22243.live.streamtheworld.com/SURIA_FMAAC.aac",  //Suria
+  //"https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac", //Suria FM
+
+  "https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv?playlist.m3u8",   //Sinar New
+  "https://stream-eu-a.rcs.revma.com/bb4ey1g811uvv?playlist.m3u8",   //Sinar 70's
+  "https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv?playlist.m3u8",  //Sinar 80's
+  "https://stream-eu-a.rcs.revma.com/rz43weh811uvv?playlist.m3u8",   //Sinar Rock Kapak
+
+  "http://mediaprima.rastream.com/mediaprima-hotfm",  //Hot FM
+
+  "http://mediaprima.rastream.com/mediaprima-koolfm.android",  //Kool FM
+
+  "https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac",                                 //Asyik FM
+  "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC",  //Radio Klasik
+
+  "https://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv?playlist.m3u8",  //Raaga
+  "https://stream-eu-a.rcs.revma.com/ggn4nww711uvv?playlist.m3u8",  //Gegar FM
+
+  //Negeri Radio
+  "https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac",  //Mutiara FM
+  "https://22243.live.streamtheworld.com/PERAK_FMAAC.aac",        //Perak FM
+  "https://22273.live.streamtheworld.com/SELANGOR_FMAAC.aac",     //Selagor FM
+  "http://28103.live.streamtheworld.com/KL_FMAAC.aac",            //KL FM
+  "http://28163.live.streamtheworld.com/NEGERI_FMAAC.aac",        //Negeri9 FM
+  "http://28093.live.streamtheworld.com/MELAKA_FMAAC.aac",        //Melacca FM
+  "http://28093.live.streamtheworld.com/PAHANG_FMAAC.aac",        //Pahang FM
+  "http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac",      //Nasional FM
+  "https://n11.rcs.revma.com/nzgauqq1v7zuv?hls.m3u8",             //Manis FM (Kuala Terengganu)
+  "https://16603.live.streamtheworld.com/KELANTAN_FMAAC.aac",     //Kelantan FM
+  "http://22243.live.streamtheworld.com:80/JOHOR_FMAAC.aac",      //Johor FM
+  "http://22273.live.streamtheworld.com/KEDAH_FMAAC.aac",         //Kedah FM
+  "http://28103.live.streamtheworld.com/LANGKAWI_FMAAC.aac",      //Langkawi FM
+  //"https://17793.live.streamtheworld.com/PERLIS_FMAAC.aac",
+  "http://28153.live.streamtheworld.com/PERLIS_FMAAC.aac.aac",
+  "http://28103.live.streamtheworld.com/SABAH_FMAAC.aac",   //RTM Sabah
+  "http://22273.live.streamtheworld.com/SABAH_VFMAAC.aac",  //Sabah V FM
+  //"https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac", //RTM Sabah
+  "http://22273.live.streamtheworld.com/BINTULU_FMAAC.aac",   //Bintulu FM/Sarawak
+  "http://28163.live.streamtheworld.com/SANDAKAN_FMAAC.aac",  //Sandakan FM
+
+  "https://22893.live.streamtheworld.com/938NOW_PREM.aac",        //SG CNA
+  "https://22393.live.streamtheworld.com/GOLD905_PREM.aac",       //SG Gold 905
+  "https://22403.live.streamtheworld.com/YES933_PREM.aac",        //SG Yes933
+  "https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac",     //SG Love972
+  "https://22253.live.streamtheworld.com/CAPITAL958FM_PREM.aac",  //SG Capital
+  "http://22243.live.streamtheworld.com/UFM_1003AAC.aac",         //SG UFM1003
+
+  "https://stream.surf.radio/surf1025",                                //Thailand EN Suf 102.5FM
+  "https://streaming.thaismarthost.com/listen/shoutcast_8120/WELOVE",  //Thai We Love
+  "https://atimeonline.smartclick.co.th/chill",                        //Thai BKK Chill FM
+  "https://atimeonline2.smartclick.co.th/efm",                         //Thai BKK EFM
+  "https://atimeonline2.smartclick.co.th/green",                       //Thai BBK GreenWave 100.6
+  //"https://plus.onair.network:8020/ctapp",  //Thai City Radio 90.25
+
+  "https://stream.rcs.revma.com/54g0f0e811uvv?playlist.m3u8",  //Syok Relax Music
+  "https://stream.relaxfm.ee/instrumental",                    //Relax Intr
+  "https://stream.relaxfm.ee/cafe",                            //Relax Cafe
+  "https://stream.relaxfm.ee/spa",                             //Relax Spa
+
+  "http://ais-edge89-dal02.cdnstream.com/b55667_64aac",             //Christmas Channel
+  "http://stream.hopemedia.com.au/christmashope",                   //Xmas Hope
+  "http://radio1.streamserver.link/radio/8090/mcr-aac",             //365 Xmas
+  "https://stream-eu-a.rcs.revma.com/e2xkc1e811uvv?playlist.m3u8",  //Syok Best Kid Song(6)

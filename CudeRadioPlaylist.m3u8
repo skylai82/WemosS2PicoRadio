@@ -5,7 +5,7 @@ https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8
 #EXTINF:-1, GoXuan FM
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
 #EXTINF:-1, 8-FM
-http://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
+https://stream-eu-a.rcs.revma.com/qp0xrd9mtd3vv?playlist.m3u8
 #EXTINF:-1, 988 FM
 http://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
@@ -23,9 +23,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1, SG Capital
 http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1, Syok KBS WORLD
-http://stream.rcs.revma.com/a425s9z711uvv/hls.m3u8
+https://stream-eu-a.rcs.revma.com/a425s9z711uvv?playlist.m3u8
 #EXTINF:-1, Syok Gold
-http://stream.rcs.revma.com/fxq2n9tbv4uvv/hls.m3u8
+https://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv?playlist.m3u8
 #EXTINF:-1, SyokOpusClassic
 http://stream.rcs.revma.com/aqvp4yvbv4uvv/hls.m3u8
 #EXTINF:-1, Syok ClassicRock

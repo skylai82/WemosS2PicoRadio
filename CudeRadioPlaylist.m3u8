@@ -87,9 +87,9 @@ http://28163.live.streamtheworld.com/NASIONAL_FMAAC.aac
 http://stream-eu-a.rcs.revma.com/nzgauqq1v7zuv?playlist.m3u8
 
 #EXTINF:-1, Mutiara FM
-http://22273.live.streamtheworld.com/MUTIARA_FMAAC.aac
+https://28153.live.streamtheworld.com/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM
-http://22273.live.streamtheworld.com/SELANGOR_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1, KL FM
 http://28103.live.streamtheworld.com/KL_FMAAC.aac
 #EXTINF:-1, Negeri9 FM

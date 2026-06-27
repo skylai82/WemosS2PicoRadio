@@ -1,0 +1,167 @@
+[
+  {
+    "name": "m3u电台",
+    "musics": [
+      {
+        "name": " MyFM Radio",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Melody FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " GoXuan FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " 8-FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/qp0xrd9mtd3vv?playlist.m3u8"
+      },
+      {
+        "name": " 988 FM",
+        "type": "radio",
+        "url": "http://22273.live.streamtheworld.com/988_FMAAC.aac"
+      },
+      {
+        "name": " Ai FM (爱FM)",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"
+      },
+      {
+        "name": " SG UFM1003",
+        "type": "radio",
+        "url": "http://22243.live.streamtheworld.com/UFM_1003AAC.aac"
+      },
+      {
+        "name": " SG Hao FM",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac"
+      },
+      {
+        "name": " SG Yes933",
+        "type": "radio",
+        "url": "http://22403.live.streamtheworld.com/YES933_PREM.aac"
+      },
+      {
+        "name": " SG Love972",
+        "type": "radio",
+        "url": "http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac"
+      },
+      {
+        "name": " SG 883Jia FM",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac"
+      },
+      {
+        "name": " SG Capital",
+        "type": "radio",
+        "url": "http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac"
+      },
+      {
+        "name": " Syok KBS WORLD",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/a425s9z711uvv?playlist.m3u8"
+      },
+      {
+        "name": " Syok Gold",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " SyokOpusClassic",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/aqvp4yvbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Syok ClassicRock",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/fk3507vbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Syok Jazz",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/c718dfvbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Kenyalang Srwk",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/qyg9zmvbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Bayu Sabah",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/c718dfvbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " India Beat Hindi",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/hrcdg9ubv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Osai(Hindi)",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/60s783vbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Raaga(Hindi)",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " SG Class FM",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac"
+      },
+      {
+        "name": " SG Gold FM",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac"
+      },
+      {
+        "name": " SG Warna FM",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac"
+      },
+      {
+        "name": " Radio Klasik",
+        "type": "radio",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC"
+      },
+      {
+        "name": " Asyik FM",
+        "type": "radio",
+        "url": "http://28163.live.streamtheworld.com/ASYIK_FMAAC.aac"
+      },
+      {
+        "name": " SG CNA",
+        "type": "radio",
+        "url": "http://22893.live.streamtheworld.com/938NOW_PREM.aac"
+      },
+      {
+        "name": " Hitz FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/488kt4sbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Lite FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/bn4ex8sbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Mix FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/v5pq3htbv4uvv?playlist.m3u8"
+      },
+      {
+        "name": " Fly FM",
+        "type": "radio",
+        "url": "http://stream-eu-a.rcs.revma.com/q17aka9mtd3vv?playlist.m3u8"
+      }
+    ]
+  }
+]

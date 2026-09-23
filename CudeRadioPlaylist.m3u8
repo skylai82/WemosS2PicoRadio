@@ -52,7 +52,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1, Radio Klasik
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 #EXTINF:-1, Asyik FM
-http://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 #EXTINF:-1, SG CNA
 http://22893.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1, Hitz FM

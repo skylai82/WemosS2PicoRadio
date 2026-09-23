@@ -87,7 +87,7 @@ https://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
 http://stream-eu-a.rcs.revma.com/nzgauqq1v7zuv?playlist.m3u8
 
 #EXTINF:-1, Mutiara FM
-https://28153.live.streamtheworld.com/MUTIARA_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1, KL FM

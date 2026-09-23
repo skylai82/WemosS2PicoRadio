@@ -92,8 +92,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1, KL FM
 http://28103.live.streamtheworld.com/KL_FMAAC.aac
-#EXTINF:-1, Negeri9 FM
-http://28163.live.streamtheworld.com/NEGERI_FMAAC.aac
+#EXTINF:-1, RTM Negeri FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC.aac
 #EXTINF:-1, Melacca FM
 http://28093.live.streamtheworld.com/MELAKA_FMAAC.aac
 #EXTINF:-1, Pahang FM

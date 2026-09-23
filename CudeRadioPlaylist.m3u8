@@ -74,7 +74,7 @@ http://stream-eu-a.rcs.revma.com/4p3nqmmbv4uvv?playlist.m3u8
 #EXTINF:-1, ERA Sarawak
 http://stream-eu-a.rcs.revma.com/bkqfqkrbv4uvv?playlist.m3u8
 #EXTINF:-1, Suria FM
-http://28103.live.streamtheworld.com/SURIA_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
 #EXTINF:-1, Sinar FM
 http://stream-eu-a.rcs.revma.com/azatk0tbv4uvv?playlist.m3u8
 #EXTINF:-1, Hot FM

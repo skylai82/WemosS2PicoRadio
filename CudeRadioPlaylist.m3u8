@@ -125,6 +125,8 @@ http://live.gbibrahrang.com:8000/stream
 https://stream.rcs.revma.com/k02rmq48kxcwv
 #EXTINF:-1,Indo Prambors FM
 https://stream.rcs.revma.com/h77wwp48kxcwv
+#EXTINF:-1,Indo KIS FM
+https://radio.garden/api/ara/content/listen/ZzfF5N0X/channel.mp3
 #EXTINF:-1, Genting V FM
 http://live.gbibrahrang.com:8000/stream
 http://n18.rcs.revma.com/akeqec2d86bwv/hls.m3u8?rj-ttl=5&rj-tok=AAABnhlcJ2YAzkrT8PAUgrfaxQ

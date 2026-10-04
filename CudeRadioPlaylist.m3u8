@@ -112,18 +112,24 @@ http://28103.live.streamtheworld.com/LANGKAWI_FMAAC.aac
 http://28093.live.streamtheworld.com/PERLIS_FMAAC.aac
 #EXTINF:-1, RTM Sabah
 http://28103.live.streamtheworld.com/SABAH_FMAAC.aac
-
 #EXTINF:-1, SANDAKAN FM
 http://22273.live.streamtheworld.com/SANDAKAN_FMAAC.aac
-#EXTINF:-1, Bangkok EFM
-https://rsas.bkk.fm/aac32bangkok
+
+#EXTINF:-1, TH Bangkok EFM
+http://atimeonline.smartclick.co.th/efm
+#EXTINF:-1, TH COOL Fahrenheit live
+http://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1, TH 90 Luk Thung Rak
+http://radio11.plathong.net/8896/;stream.mp3
+
+
 #EXTINF:-1, Indo Aksi Medan
 http://live.gbibrahrang.com:8000/stream
 #EXTINF:-1, Indo Delta FM
 http://stream.rcs.revma.com/k02rmq48kxcwv
 #EXTINF:-1,Indo Prambors FM
-https://stream.rcs.revma.com/h77wwp48kxcwv
-#EXTINF:-1,Indo KIS FM
+http://stream.rcs.revma.com/h77wwp48kxcwv
+#EXTINF:-1,Indo KISS FM
 https://radio.garden/api/ara/content/listen/ZzfF5N0X/channel.mp3
 
 #EXTINF:-1, 365 Xmas

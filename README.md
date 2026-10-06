@@ -1,5 +1,5 @@
 Very Cube Internet Radio
-
+<img src="https://github.com/skylai82/WemosS2PicoRadio/blob/main/Photo/Image_20261007071751_326_7.jpg?raw=true" alt="Very Cube Internet Radio">
 https://esp.huhn.me/
 
 英文

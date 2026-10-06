@@ -1,5 +1,4 @@
 Very Cube Internet Radio
-https://github.com/skylai82/WemosS2PicoRadio/blob/main/Photo/Image_20261007071751_326_7.jpg?raw=true
 
 https://esp.huhn.me/
 

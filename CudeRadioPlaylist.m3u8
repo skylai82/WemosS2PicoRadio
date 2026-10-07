@@ -52,7 +52,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1, Radio Klasik
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
 #EXTINF:-1, Asyik FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 #EXTINF:-1, SG CNA
 http://22893.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1, Hitz FM
@@ -74,7 +74,7 @@ http://stream-eu-a.rcs.revma.com/4p3nqmmbv4uvv?playlist.m3u8
 #EXTINF:-1, ERA Sarawak
 http://stream-eu-a.rcs.revma.com/bkqfqkrbv4uvv?playlist.m3u8
 #EXTINF:-1, Suria FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
 #EXTINF:-1, Sinar FM
 http://stream-eu-a.rcs.revma.com/azatk0tbv4uvv?playlist.m3u8
 #EXTINF:-1, Hot FM
@@ -82,14 +82,14 @@ http://stream-eu-a.rcs.revma.com/drakdf8mtd3vv?playlist.m3u8
 #EXTINF:-1, Kool FM
 http://stream-eu-a.rcs.revma.com/3930238mtd3vv?playlist.m3u8
 #EXTINF:-1, Nasional FM
-https://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
+http://22253.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1, Manis FM
 http://stream-eu-a.rcs.revma.com/nzgauqq1v7zuv?playlist.m3u8
 
 #EXTINF:-1, Mutiara FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.aac
 #EXTINF:-1, Selagor FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1, KL FM
 http://28103.live.streamtheworld.com/KL_FMAAC.aac
 #EXTINF:-1, RTM Negeri FM

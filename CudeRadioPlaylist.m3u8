@@ -1,12 +1,12 @@
-#EXTINF:-1, MyFM Radio（有新版本，开机时 按着Volume Up & Down）
+#EXTINF:-1, (New software,Volume Up & Down)MyFM Radio 
 http://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
-#EXTINF:-1, Melody FM
+#EXTINF:-1, (New software,Volume Up & Down)Melody FM
 http://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8
-#EXTINF:-1, GoXuan FM
+#EXTINF:-1, (New software,Volume Up & Down)GoXuan FM
 http://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
-#EXTINF:-1, Eight FM
+#EXTINF:-1, (New software,Volume Up & Down)Eight FM
 http://stream-eu-a.rcs.revma.com/qp0xrd9mtd3vv?playlist.m3u8
-#EXTINF:-1, 988 FM
+#EXTINF:-1, (New software,Volume Up & Down)988 FM
 http://22273.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
@@ -123,13 +123,13 @@ http://coolism-web.cdn.byteark.com/;stream/1
 http://radio11.plathong.net/8896/;stream.mp3
 
 
-#EXTINF:-1, Indo Aksi Medan
+#EXTINF:-1, (New software,Volume Up & Down)Indo Aksi Medan
 http://live.gbibrahrang.com:8000/stream
-#EXTINF:-1, Indo Delta FM
+#EXTINF:-1, (New software,Volume Up & Down)Indo Delta FM
 http://stream.rcs.revma.com/k02rmq48kxcwv
-#EXTINF:-1,Indo Prambors FM
+#EXTINF:-1,(New software,Volume Up & Down)Indo Prambors FM
 http://stream.rcs.revma.com/h77wwp48kxcwv
 
 
-#EXTINF:-1, 365 Xmas
+#EXTINF:-1, (New software,Volume Up & Down)365 Xmas
 http://radio1.streamserver.link/radio/8090/mcr-aac

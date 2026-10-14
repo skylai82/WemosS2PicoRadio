@@ -1,6 +1,6 @@
 #EXTINF:-1 gain="+6", MyFM Radio(加新字体=暫-暂)
 http://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
-#EXTINF:-1 gain="-10", Melody FM
+#EXTINF:-1, Melody FM
 http://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8
 #EXTINF:-1, GoXuan FM
 http://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
@@ -115,15 +115,15 @@ http://28103.live.streamtheworld.com/SABAH_FMAAC.aac
 #EXTINF:-1, SANDAKAN FM
 http://22273.live.streamtheworld.com/SANDAKAN_FMAAC.aac
 
-#EXTINF:-1, TH Bangkok EFM
+#EXTINF:-1 gain="-5", TH Bangkok EFM
 http://atimeonline.smartclick.co.th/efm
-#EXTINF:-1, TH COOL Fahrenheit live
+#EXTINF:-1 gain="-5", TH COOL Fahrenheit live
 http://coolism-web.cdn.byteark.com/;stream/1
-#EXTINF:-1, TH 90 Luk Thung Rak
+#EXTINF:-1 gain="-5", TH 90 Luk Thung Rak
 http://radio11.plathong.net/8896/;stream.mp3
-#EXTINF:-1, TH City Life FM
+#EXTINF:-1 gain="-5", TH City Life FM
 http://radio14.plathong.net/8076/;stream.mp3
-#EXTINF:-1, TH 104 Green FM
+#EXTINF:-1 gain="-5", TH 104 Green FM
 http://radio14.plathong.net/7072/;stream.mp3
 
 

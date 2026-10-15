@@ -15,7 +15,7 @@ http://22243.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1, SG Hao FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
 #EXTINF:-1, SG Yes933
-http://22403.live.streamtheworld.com/YES933_PREM.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
 #EXTINF:-1, SG Love972
 http://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1, SG 883Jia FM

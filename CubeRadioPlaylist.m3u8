@@ -8,6 +8,7 @@ http://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
 http://stream-eu-a.rcs.revma.com/qp0xrd9mtd3vv?playlist.m3u8
 #EXTINF:-1, 988 FM
 http://22273.live.streamtheworld.com/988_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)
 http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1, SG UFM1003

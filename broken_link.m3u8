@@ -53,4 +53,7 @@ http://live.gbibrahrang.com:8000/stream
 #EXTINF:-1, Xmas Hope
 http://stream.hopemedia.com.au/christmashope
 
+#EXTINF:-1 gain="+15", Indo Aksi Medan （Soung Hangging）
+http://live.gbibrahrang.com:8000/stream
+
 

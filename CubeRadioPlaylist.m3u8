@@ -41,7 +41,7 @@ http://stream-eu-a.rcs.revma.com/c718dfvbv4uvv?playlist.m3u8
 http://stream-eu-a.rcs.revma.com/hrcdg9ubv4uvv?playlist.m3u8
 #EXTINF:-1, Osai(Hindi)
 http://stream-eu-a.rcs.revma.com/60s783vbv4uvv?playlist.m3u8
-#EXTINF:-1, Raaga(Hindi)
+#EXTINF:-1 gain="+5", Raaga(Hindi)
 http://stream-eu-a.rcs.revma.com/1ut6qwtbv4uvv?playlist.m3u8
 #EXTINF:-1, SG Class FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac

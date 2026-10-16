@@ -124,11 +124,11 @@ http://radio11.plathong.net/8896/;stream.mp3
 http://radio14.plathong.net/8076/;stream.mp3
 #EXTINF:-1, TH 104 Green FM
 http://radio14.plathong.net/7072/;stream.mp3
-#EXTINF:-1 gain="+15", Indo Aksi Medan
-http://live.gbibrahrang.com:8000/stream
 #EXTINF:-1 gain="+10", Indo Delta FM
 http://stream.rcs.revma.com/k02rmq48kxcwv
 #EXTINF:-1 gain="+5",Indo Prambors FM
 http://stream.rcs.revma.com/h77wwp48kxcwv
+#EXTINF:-1 gain="+15", Indo Aksi Medan
+http://live.gbibrahrang.com:8000/stream
 #EXTINF:-1 gain="-5", Christmas 365days
 http://radio1.streamserver.link/radio/8090/mcr-aac

@@ -25,11 +25,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1, Syok KBS WORLD
 http://stream-eu-a.rcs.revma.com/a425s9z711uvv?playlist.m3u8
-#EXTINF:-1 gain="+5", Syok Gold
+#EXTINF:-1 gain="+15", Syok Gold
 http://stream-eu-a.rcs.revma.com/fxq2n9tbv4uvv?playlist.m3u8
 #EXTINF:-1, Syok Opus Classic
 http://stream-eu-a.rcs.revma.com/aqvp4yvbv4uvv?playlist.m3u8
-#EXTINF:-1 gain="+5", Syok Classic Rock
+#EXTINF:-1 gain="+15", Syok Classic Rock
 http://stream-eu-a.rcs.revma.com/fk3507vbv4uvv?playlist.m3u8
 #EXTINF:-1 gain="+5", Syok Jazz
 http://stream-eu-a.rcs.revma.com/c718dfvbv4uvv?playlist.m3u8

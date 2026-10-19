@@ -1,12 +1,12 @@
 /*
   Fontname: -gnu-Unifont-Medium-R-Normal-Sans-16-160-75-75-c-80-iso10646-1
   Copyright: Copyright (C) 1998-2024 Roman Czyborra, Paul Hardy, Qianqian Fang, Andrew Miller, Johnnie Weaver, David Corbett, Nils Moskopp, Rebecca Bettencourt, Ho-Seok Ee, et al. License: SIL Open Font License version 1.1 and GPLv2+: GNU GPL version 2 or later <http://gnu.org/licenses/gpl.html> with the GNU Font Embedding Exception.
-  Glyphs: 2809/57084
+  Glyphs: 2810/57084
   BBX Build Mode: 0
 */
 #ifdef U8G2_USE_LARGE_FONTS
-const uint8_t u8g2_font_unifont[112495] U8G2_FONT_SECTION("u8g2_font_unifont") = 
-  "\371\0\3\2\5\5\5\5\6\20\20\0\376\12\376\13\377\1\235\3\70\5> \6\0@\217\2!\10A"
+const uint8_t u8g2_font_unifont[112505] U8G2_FONT_SECTION("u8g2_font_unifont") = 
+  "\372\0\3\2\5\5\5\5\6\20\20\0\376\12\376\13\377\1\235\3\70\5> \6\0@\217\2!\10A"
   "Q\210\342\220\10\42\10\205H\214\42s\13#\17FE\210\252\247aH\242\226a\210z\2$\22GE"
   "\210.\34\224(\222\302y\214\244\312 f\0%\24GE\210F\223\222R\22)i\234&R\22%%"
   "M\1&\22GE\210j+e\225PL\42-\21\223L\232\2'\7\201P\214b\10(\14\203\315\207"
@@ -3519,7 +3519,7 @@ const uint8_t u8g2_font_unifont[112495] U8G2_FONT_SECTION("u8g2_font_unifont") =
   "\246\15\321\60\210Q\216\14Q\62,i\22&C\224\14K\232\204\311\20%\303\222&a\62DI\224\324"
   "\244,\33\2\237\231+\17B\7\67\314\241\64G\322\34\311\241\341k\224\203Q\226GY\36\325\263$G"
   "\62\35\11\323,S\243,I\223,\33\206\234\0\237\232&\17B\7\67\314\241\64\34\36\322\250\216D["
-  "\230\254Y:,Z\35\253\17\7=\313\261\352\360\61\315\253\71\24\1\377\32\12\342T\11c\210\207\0\377"
-  "\37\24\211M\10k\320\322$\317\221<\226s$g\315\221\20\377\345\32\213I\10c]\362,\215\206\203"
-  "VO\302\341\240\346X\216\345X\16\215\0\0";
+  "\230\254Y:,Z\35\253\17\7=\313\261\352\360\61\315\253\71\24\1\377\14\12\242\320\7cH\22\5\377"
+  "\32\12\342T\11c\210\207\0\377\37\24\211M\10k\320\322$\317\221<\226s$g\315\221\20\377\345\32"
+  "\213I\10c]\362,\215\206\203VO\302\341\240\346X\216\345X\16\215\0\0";
 #endif /* U8G2_USE_LARGE_FONTS */

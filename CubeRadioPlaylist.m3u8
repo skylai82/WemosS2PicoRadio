@@ -2,6 +2,17 @@
 http://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv?playlist.m3u8
 #EXTINF:-1 gain="+3", Melody FM "强打好歌，强大资讯" 
 http://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv?playlist.m3u8
+#EXTINF:-1, SG Hao FM “963好FM，好时光，好歌，好FM”
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+#EXTINF:-1, SG Yes933 "顶尖流行音乐电台，引领潮流时代"
+http://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
+#EXTINF:-1, SG Love972 “享受生活，感受音乐，有你的感觉真好”
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
+#EXTINF:-1, SG UFM1003 "U选好歌，非听不可!" 
+http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
+#EXTINF:-1, SG 883Jia FM「双语第一台，双倍精彩」
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+
 #EXTINF:-1, GoXuan "Be Your Own Trend"
 http://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv?playlist.m3u8
 #EXTINF:-1, Eight FM 无限
@@ -11,16 +22,7 @@ http://22273.live.streamtheworld.com/988_FMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac
 #EXTINF:-1, Ai FM (爱FM)"越听越爱" 
 http://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
-#EXTINF:-1, SG UFM1003 "U选好歌，非听不可!" 
-http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
-#EXTINF:-1, SG Hao FM “963好FM，好时光，好歌，好FM”
-http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
-#EXTINF:-1, SG Yes933 "顶尖流行音乐电台，引领潮流时代"
-http://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
-#EXTINF:-1, SG Love972 “享受生活，感受音乐，有你的感觉真好”
-http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
-#EXTINF:-1, SG 883Jia FM「双语第一台，双倍精彩」
-http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+
 #EXTINF:-1, SG Capital
 http://28453.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1, Syok KBS WORLD

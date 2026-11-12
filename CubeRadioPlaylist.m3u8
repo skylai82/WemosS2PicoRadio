@@ -10,7 +10,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
 #EXTINF:-1, 【SG UFM1003】 "U选好歌，非听不可!" 
 http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
-#EXTINF:-1, 【SG 883Jia FM】「双语第一台，双倍精彩」
+#EXTINF:-1 gain="+5", 【SG 883Jia FM】「双语第一台，双倍精彩」
 http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 
 #EXTINF:-1, 【GoXuan】 "Be Your Own Trend"
